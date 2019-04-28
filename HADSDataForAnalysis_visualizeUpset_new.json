@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/rashidzaman84/test/master/HADSDataForAnalysis_visualizeUpset.csv",
-	"name": "Test",
+	"name": "HADSDataForAnalysis_visualizeUpset",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
